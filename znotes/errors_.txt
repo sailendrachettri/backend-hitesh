@@ -1,0 +1,2 @@
+add below code in package.json to usin <import module from 'package'>
+"type" : "module", 
