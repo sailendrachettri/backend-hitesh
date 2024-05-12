@@ -1,2 +1,4 @@
-add below code in package.json to usin <import module from 'package'>
+1. add below code in package.json to usin <import module from 'package'>
 "type" : "module", 
+
+2. sometimes while importing filename.js is import instead of just filename
